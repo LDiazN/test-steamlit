@@ -1,1 +1,2 @@
-c4v-py==0.1.0.dev20211029
+ google-cloud-storage==1.42.3
+ c4v-py==0.1.0.dev20211029
